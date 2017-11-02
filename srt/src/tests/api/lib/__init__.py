@@ -1,0 +1,13 @@
+# ~*~ coding: utf-8 ~*~
+
+
+API_KEY = "d44cac62ed9340e5a213f855f67cc099"
+BRANCH_ID = 5668
+MARKET_SOURCE_1 = 13133
+MARKET_SOURCE_2 = 13134
+STUFF = 9130
+STOCK_ID = 6444
+
+KEY_DATA = {
+    'api_key': API_KEY,
+}

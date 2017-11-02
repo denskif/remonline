@@ -1,0 +1,44 @@
+# example repository config (see "hg help config" for more info)
+[paths]
+default = https://denskif.91.91@gmail.com@bitbucket.org/remonline/srt
+
+[extensions]
+color =
+extdiff=
+graphlog=
+progress=
+rebase=
+transplant=
+mq=
+fetch =
+shelve=
+purge=
+
+[extdiff]
+cmd.meld =
+
+default = https://denskif.91.91@mail.com.80931207152Qw@bitbucket.org/remonline/srt
+
+[extensions]
+color =
+extdiff=
+graphlog=
+progress=
+rebase=
+transplant=
+mq=
+fetch =
+shelve=
+purge=
+
+[extdiff]
+cmd.meld =
+
+[ui]
+username = denskif <denskif.91.91@gmail.com>
+
+[auth]
+bb.prefix = https://denskif.91.91@gmail.com:80931207152Qw@bitbucket.org/remonline/srt
+bb.username = denskif.91.91@gmail.com
+
+
